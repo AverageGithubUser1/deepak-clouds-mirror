@@ -1,6 +1,6 @@
 [![Slam](https://cdn.guidingtech.com/imager/assets/2021/01/1653814/Best-Telegram-Bots-for-Groups_4d470f76dc99e18ad75087b1b8410ea9.jpg?1611759706)
 
-# Deepak Clouds Mirror
+# Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
