@@ -1,6 +1,6 @@
-[![Slam](https://cdn.guidingtech.com/imager/assets/2021/01/1653814/Best-Telegram-Bots-for-Groups_4d470f76dc99e18ad75087b1b8410ea9.jpg?1611759706)
+![Slam](https://cdn.guidingtech.com/imager/assets/2021/01/1653814/Best-Telegram-Bots-for-Groups_4d470f76dc99e18ad75087b1b8410ea9.jpg?1611759706)
 
-# Mirror Bot
+# MirrorBotV2
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
 [![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
 
-**Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**MirrorBotV2** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 [Supported Groups](https://telegram.dog/cloudsmirror)
 # Features supported:
 ## Additional Features
