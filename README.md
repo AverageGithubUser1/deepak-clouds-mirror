@@ -1,4 +1,4 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://cdn.guidingtech.com/imager/assets/2021/01/1653814/Best-Telegram-Bots-for-Groups_4d470f76dc99e18ad75087b1b8410ea9.jpg?1611759706)
 
 # Deepak Clouds Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
